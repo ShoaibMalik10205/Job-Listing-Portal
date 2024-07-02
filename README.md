@@ -63,46 +63,42 @@ MongoDB,
 
 ## Screen shots
 
-#### Loading Screen
-![image](https://user-images.githubusercontent.com/90745903/235368351-699df61b-15bb-429d-9387-c724cc4c0d75.png)
-
 #### Home Page 
-![image](https://user-images.githubusercontent.com/90745903/235368363-0fd4d1d4-e7ef-4202-b764-fc16f5185723.png)
+![image](https://github.com/ShoaibMalik10205/Job-Listing-portal/assets/162782538/927c13d9-2b04-4f03-8fc0-ec0d41f147c7)
 
 
 #### search Job based on tags
-![image](https://user-images.githubusercontent.com/90745903/235368398-2b9f560c-faf9-43e8-9404-39da691bfb40.png)
-
-
+![image](https://github.com/ShoaibMalik10205/Job-Listing-portal/assets/162782538/96a7e76a-3638-4aad-a28c-fe19c40696e7)
 
 
 #### login Page
-![image](https://user-images.githubusercontent.com/90745903/223760826-3b23f677-f6f1-4740-9859-a7de7795cd09.png)
+![image](https://github.com/ShoaibMalik10205/Job-Listing-portal/assets/162782538/444a0fa6-7577-4fb6-9627-507cd4967b42)
 
 
 #### Register Page
-![image](https://user-images.githubusercontent.com/90745903/223760920-30248b2d-d221-4f3b-b5e2-23c685bdde37.png)
+![image](https://github.com/ShoaibMalik10205/Job-Listing-portal/assets/162782538/2859500b-7eb1-4cf6-ab0a-bc2631b4877b)
+
 
 #### Forget Password 
-![image](https://user-images.githubusercontent.com/90745903/224545005-68654792-96c0-4e75-9e01-526c1eda5228.png)
+![image](https://github.com/ShoaibMalik10205/Job-Listing-portal/assets/162782538/ac29a012-5029-4a5b-8d3d-c964a8404c2b)
+
 
 #### Dashboard to trace Your Favorite Jobs and Jobs on which you have Applied 
-![image](https://user-images.githubusercontent.com/90745903/235368489-f55ae625-bb7d-4b69-a233-e3b58c48bff4.png)
-![image](https://user-images.githubusercontent.com/90745903/235368497-e21d8ef2-2331-43cd-b2c8-d9b8d68fab2b.png)
+![image](https://github.com/ShoaibMalik10205/Job-Listing-portal/assets/162782538/2af94268-9bff-4d43-9e6e-ea55aa0bf1af)
 
 
 #### Post Job
-![image](https://user-images.githubusercontent.com/90745903/224545025-c678ce5e-94fb-4e64-aa8c-db9be558fa0d.png)
+![image](https://github.com/ShoaibMalik10205/Job-Listing-portal/assets/162782538/ec710f9d-663b-4f28-9ae9-960a03c7b1b4)
 
 #### Your Posted Job
-![image](https://user-images.githubusercontent.com/90745903/235368529-c23fb70f-0840-4795-bfce-062df0e2ef28.png)
+![image](https://github.com/ShoaibMalik10205/Job-Listing-portal/assets/162782538/59979a90-5b57-47f1-8d91-8c926c314aa4)
 
 #### managing Applicant on your Job
-![image](https://user-images.githubusercontent.com/90745903/235368556-f8522766-7409-4031-a04f-b3fa0afa4e9f.png)
-
+![image](https://github.com/ShoaibMalik10205/Job-Listing-portal/assets/162782538/4f5a28a3-fc6c-4d94-8c24-5c5a6d33734e)
 
 #### View Job 
-![image](https://user-images.githubusercontent.com/90745903/224545051-9072fb38-411c-43f4-8a01-78af4c0a68ff.png)
+![image](https://github.com/ShoaibMalik10205/Job-Listing-portal/assets/162782538/92d05eef-a84d-4e23-a6c5-c3d724045d9e)
+
 
 
 
